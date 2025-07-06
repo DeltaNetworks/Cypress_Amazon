@@ -1,0 +1,20 @@
+Amazon Use Customer Service Page Test Case:
+1 navigate to "Amazon.com"
+2 search: “Bostitch Personal Electric Pencil Sharpener, Powerful Stall-Free Motor, High Capacity Shavings Tray, 
+           Blue (EPS4-BLUE)” 
+3 Add the following product to the cart (sharpner)
+4 We should have a confirmation that the product was added, and it should appear in the side bar 
+  cart. 
+5. Navigate to: 
+   https://www.amazon.com/Scissors-iBayam-Crafting-Scrapbooking-Knitting/dp/B07H3QKN2Z 
+6. Image Should appear 
+Click on “Yellow, Grey, Blue” option, text “color”, 
+   Should change to “Yellow, Grey, Blue”. 
+7. click “Add to cart”
+8. Confirmation should appear TIP: You can look for the text “Added to Cart” 
+9. Check out the cart 
+10. you can see that you do not qualify for free shipping. 
+11. Order 3 additional pencil sharpeners. 
+12. you can see that you do qualify to free shipping 
+13. login with the user created previously 
+14. Clear the cart 

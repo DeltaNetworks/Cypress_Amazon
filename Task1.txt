@@ -1,0 +1,9 @@
+Amazon Use Customer Service Page Test Case:
+1 navigate to "Amazon.com"
+2 validate that main menu tabs are display: "Free Shipping Zone", "Today Deals", "Customer Service"
+3 click "Customer Service" tab (link)
+4 click "Where's my stuff" menu item, click "Track your package" tab
+5 validate: "Tracking your package" <h1> tag is visible
+            "Tracking your package" <a> tag is visible
+            "Solving delivery problems" <p> tag is visible
+            "Quick solutions" <h3> tag is visible
