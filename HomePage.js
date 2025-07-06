@@ -12,9 +12,5 @@ class HomePage extends BaseUtils
         cy.get('#ap_password').clear().type(password)
         cy.get('#signInSubmit').click()
     }
-    //searchProduct(value)
-    //{
-        //cy.get('input','#twotabsearchtextbox').type(value)
-    //}
 }
 export default HomePage
